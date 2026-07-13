@@ -41,14 +41,6 @@ curl -fsSL https://vllm-semantic-router.com/install.sh | bash
 
 For platform notes, detailed setup options, and troubleshooting, see the **[Installation Guide](https://vllm-semantic-router.com/docs/installation/)**.
 
-<details>
-<summary>Online playground credentials</summary>
-
-- Username: `love@vllm-sr.ai`
-- Password: `vllm-sr`
-
-</details>
-
 ## Latest News
 
 - [2026/06/29] New Blog: [Micro-Agent: Beat Frontier Models with Collaboration inside Model API](https://vllm.ai/blog/2026-06-29-micro-agent-frontier-models)
